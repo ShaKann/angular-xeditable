@@ -1,5 +1,5 @@
 {
-  "name": "angular-xeditable",
+  "name": "angular-xeditable-npm",
   "description": "Edit-in-place for angular.js",
   "version": "0.1.11",
   "homepage": "https://vitalets.github.io/angular-xeditable",
@@ -11,7 +11,7 @@
   "style": "dist/css/xeditable.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vitalets/angular-xeditable.git"
+    "url": "git://github.com/ShaKann/angular-xeditable.git"
   },
   "engines": {
     "node": ">= 0.8.0"
