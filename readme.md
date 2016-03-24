@@ -1,6 +1,8 @@
 # Angular-xeditable
 Edit in place for AngularJS
 
+**DEPRECATED: This fork is deprecated, please use original package [angular-xeditable](https://www.npmjs.com/package/angular-xeditable) instead and see [this issue](https://github.com/vitalets/angular-xeditable/issues/270) for more information.**
+
 ## Overview
 **Angular-xeditable** is a bundle of [AngularJS](http://angularjs.org) directives that allows you to create
 *editable* elements in your projects.  
